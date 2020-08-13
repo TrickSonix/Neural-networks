@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 oxford_iiit_pet
+*.docx
+checkpoints
